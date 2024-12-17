@@ -36,7 +36,7 @@ Group=ran
 [Install]
 WantedBy=multi-user.target
 ```
-## Uncomment KEX in Python 3 server
+## Comment out default KEx in Python 3 server
 ```
 #sslcontext.set_ecdh_curve("secp521r1")#works well on firefox but you can also use secp384r1
 ```
