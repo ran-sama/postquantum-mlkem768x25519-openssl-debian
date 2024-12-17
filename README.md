@@ -1,7 +1,7 @@
 # postquantum-mlkem768x25519-openssl-debian
 Post quantum key exchange on Debian using oqs-provider, openSSL and Python 3.
 
-![alt text[]()](https://raw.githubusercontent.com/ran-sama/postquantum-mlkem768x25519-openssl-debian/refs/heads/master/python_oqs_openssl_wrapper.png)
+![alt text[]()](https://raw.githubusercontent.com/ran-sama/postquantum-mlkem768x25519-openssl-debian/refs/heads/master/python_oqs_openssl.png)
 
 ## Compile
 ```
